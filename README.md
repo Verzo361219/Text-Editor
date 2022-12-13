@@ -15,11 +15,11 @@ This is a pwa to give the user the ability to use a text editor whether offline 
 
 ## Installation
 
-Access the application from but if you want to install it as a pwa, click the install button.
+Access the application from https://salty-ridge-10253.herokuapp.com/ but if you want to install it as a pwa, click the install button.
 
 ## Usage
 
-Access via and take start taking notes. Its that easy
+Access via https://salty-ridge-10253.herokuapp.com/ and take start taking notes. Its that easy
 
 ## Contributing
 
